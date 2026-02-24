@@ -1,9 +1,8 @@
 {
   "version": "1.2.1",
   "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.2.1/ble_multi_wifi_gateway.bin",
-  "sha256": "0aaee848600252c0c5c222fc3b3214680c6fae2660954c305144d39a558a649d",
+  "sha256": "128cc05e16ec98f676658844de913159fd3935b7536ac7bf5ddf6f186e644eeb",
   "released": "2026-02-24T12:00:00+08:00",
-  "build_idf": "5.5.1",
-  "changelog": "Build v1.2.1"
+  "build_idf": "5.4.1",
+  "changelog": "Build v1.2.1 (fresh build)"
 }
-
