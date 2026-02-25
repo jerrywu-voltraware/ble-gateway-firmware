@@ -1,9 +1,11 @@
 {
   "version": "1.2.2",
   "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.2.2/ble_multi_wifi_gateway.bin",
-  "sha256": "4e56aa94e65dc1857b49aaa3cec14e5a3d8230d707f99c5036fb6637085e5f6d",
-  "released": "2026-02-25T13:08:48+08:00",
+  "sha256": "b930a7681fdd6c0ef9779ead1d213d9753d0b830d26df88641d4de97c693b11d",
+  "released": "2026-02-25T13:34:23+08:00",
   "build_idf": "5.4.1",
-  "changelog": "Build v1.2.2: discover N-device MAC support; BLE restart after gateway_id change"
+  "changelog": "Build v1.2.2: set_site_identity reboot after ACK; discover N-device MAC support"
 }
+
+
 
