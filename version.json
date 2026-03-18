@@ -1,8 +1,8 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.3.2/ble_multi_wifi_gateway.bin",
-  "sha256": "1826bda205ba19b2abddcf4e6b26c5f58f0f6f2db5afffbdb8b1b82becbfe1c4",
-  "released": "2026-03-06T00:00:00+08:00",
+  "version": "1.3.3",
+  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.3.3/ble_multi_wifi_gateway.bin",
+  "sha256": "4a7303bb6608d2c38890dd9bccacea5c16a39857f866023fd87d0d8dac799180",
+  "released": "2026-03-18T00:00:00+08:00",
   "build_idf": "5.5.1",
   "changelog": "穩定性修復與優化"
 }
