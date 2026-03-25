@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.4.0/ble_multi_wifi_gateway.bin",
-  "sha256": "28e8633ad96333fa708dcd235779465e909f7dbf6c1f23f93a4e2c92073ed599",
-  "released": "2026-03-23T00:00:00+08:00",
+  "version": "1.4.1",
+  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.4.1/ble_multi_wifi_gateway.bin",
+  "sha256": "8575f4ebb969cc17bf8abc2b9c37180c1189a1680903c7af88ff7dc7bfad240f",
+  "released": "2026-03-25T00:00:00+08:00",
   "build_idf": "5.5.1",
-  "changelog": "v1.4.0 功能更新"
+  "changelog": "v1.4.1 根據 max_connections 限縮群組有效連線範圍，避免連線到超出數量的設備"
 }
