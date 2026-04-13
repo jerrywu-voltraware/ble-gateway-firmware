@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.4.2/ble_multi_wifi_gateway.bin",
-  "sha256": "21a731466cd481f05c768d64a601077a2048ec83988c3c82f96fb9744ad13d86",
-  "released": "2026-03-27T10:06:00+08:00",
+  "version": "1.5.0",
+  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.5.0/ble_multi_wifi_gateway.bin",
+  "sha256": "7f795e2ce08f5d20f2370ae420ede287056a48ab9b05ac9cce7215ea1976ad62",
+  "released": "2026-04-13T12:00:00+08:00",
   "build_idf": "5.5.1",
-  "changelog": "v1.4.2 修復 BLE zombie 重連無限迴圈（PTU#9 崩潰根因）、新增獨立 health WDT task（heartbeat 死亡仍可自動重啟）、heap_min 歷史低水位監控、擴充 ble_wdg/mqtt_hb 任務堆疊"
+  "changelog": "v1.5.0 GIOS BLE client 連線條件放寬：裝置名稱包含 GIOS 即可連線（不再限定完全匹配 GIOS0403ST）"
 }
