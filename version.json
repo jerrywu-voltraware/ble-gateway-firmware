@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.5.0/ble_multi_wifi_gateway.bin",
-  "sha256": "7f795e2ce08f5d20f2370ae420ede287056a48ab9b05ac9cce7215ea1976ad62",
-  "released": "2026-04-13T12:00:00+08:00",
+  "version": "1.6.0",
+  "url": "https://github.com/jerrywu-voltraware/ble-gateway-firmware/releases/download/v1.6.0/ble_multi_wifi_gateway.bin",
+  "sha256": "1256e5f755ce22de088a59aff966be34a06888434c472e17997dfca49da1fec0",
+  "released": "2026-09-21T15:30:00+08:00",
   "build_idf": "5.5.1",
-  "changelog": "v1.5.0 GIOS BLE client 連線條件放寬：裝置名稱包含 GIOS 即可連線（不再限定完全匹配 GIOS0403ST）"
+  "changelog": "v1.6.0 新增 TOTP 一次性密碼授權敏感指令（未佈建時相容放行）；含 v1.5.1 強化：敏感指令必帶時間戳、OTA sha256 驗證、拒絕降級"
 }
